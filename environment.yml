@@ -16,3 +16,4 @@ dependencies:
   - networkx
   - PyGithub
   - jsonschema
+  - scipy
