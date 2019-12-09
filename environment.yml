@@ -15,4 +15,4 @@ dependencies:
   - requests
   - networkx
   - PyGithub
-  - Json
+  - jsonschema
