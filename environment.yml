@@ -13,6 +13,4 @@ dependencies:
   - dask
   - xlrd 
   - requests
-  - json
   - networkx
-  - github
