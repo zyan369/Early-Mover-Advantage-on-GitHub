@@ -14,3 +14,5 @@ dependencies:
   - xlrd 
   - requests
   - networkx
+  - PyGithub
+  - json
