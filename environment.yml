@@ -3,15 +3,9 @@ channels:
   - defaults
 dependencies:
   - numpy
-  - psutil
-  - toolz
   - matplotlib
-  - dill
   - pandas
-  - partd
   - bokeh
-  - dask
-  - xlrd 
   - requests
   - networkx
   - PyGithub
