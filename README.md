@@ -24,7 +24,7 @@ Also, similarly in the Colab notebook, you would need to login with Google accou
 
 Database Dump Download Link: http://ghtorrent-downloads.ewi.tudelft.nl/mysql/mysql-2019-01-01.tar.gz
 
-Feel free to drop an e-mail for any queries 
+Feel free to drop an e-mail for any queries <br />
 Aditya: adityamehta@uni-koblenz.de <br />
 Atul: atulsharma@uni-koblenz.de <br />
 Arun: apaudyal@uni-koblenz.de <br />
