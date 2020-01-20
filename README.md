@@ -5,14 +5,17 @@ Repository for Research Lab project. Opinion leaders in Github
 
 The data collection from the GitHub API included following steps:
 
-  • formulation of the "search query" to be used while sending the API requests.
-  • sending the API requests and parsing the JSON data to extract the required information
-  • saving the extracted information into and CSV file. This was necessary to reduce the processing time and minimizing hitting the GitHub server too often
-  • more API requests as per need in order to extract the further limitation.
+  • formulation of the "search query" to be used while sending the API requests.<br />
+  • sending the API requests and parsing the JSON data to extract the required information<br />
+  • saving the extracted information into and CSV file. This was necessary to reduce the processing time and minimizing hitting the GitHub server too often<br />
+  • more API requests as per need in order to extract the further limitation.<br />
 
 To perform the analysis, please make sure to have a GitHub developer account and to generate token from the way defined here:
 
 Login to GitHub account --> Go to Settings --> Go to Developer Settings --> Go to Personal Access Token --> Generate Token
+
+
+The order to access Python Notebooks is as per the naming convention.
 
 Also, similarly in the Colab notebook, you would need to login with Google account. The alternative way is to put those files users.csv and followers.csv in personal computer and perform the same notebook. Due to high computation needs, we performed this analysis on Google Colat Notebook environment.
 
