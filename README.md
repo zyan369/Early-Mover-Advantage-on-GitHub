@@ -15,6 +15,7 @@ To perform the analysis, please make sure to have a GitHub developer account and
 
 Login to GitHub account --> Go to Settings --> Go to Developer Settings --> Go to Personal Access Token --> Generate Token
 
+In the code, replace value of parameter, for example, 'b499684ea402d0504e021498de8a7339edf091cf' value in quotes need to be replaced with token generated with your user account.
 
 The order to access Python Notebooks is as per the naming convention.
 
@@ -22,3 +23,9 @@ Also, similarly in the Colab notebook, you would need to login with Google accou
 
 
 Database Dump Download Link: http://ghtorrent-downloads.ewi.tudelft.nl/mysql/mysql-2019-01-01.tar.gz
+
+Feel free to drop an e-mail for any queries 
+Aditya: adityamehta@uni-koblenz.de <br />
+Atul: atulsharma@uni-koblenz.de <br />
+Arun: apaudyal@uni-koblenz.de <br />
+Zyan: zambros@uni-koblenz.de
