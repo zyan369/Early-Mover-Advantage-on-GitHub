@@ -1,5 +1,6 @@
 # RL19-Opinion-Leaders
-Repository for Research Lab project. Opinion leaders in Github
+Repository for Research Lab project WS19-20 <br />
+Understanding the relationship of software contribution activities with influential behaviour of users on GitHub
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zyan369/RL19-Opinion-Leaders/master)
 
