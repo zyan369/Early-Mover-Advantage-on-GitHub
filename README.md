@@ -17,10 +17,10 @@ To perform the analysis, please make sure to have a GitHub developer account and
 
 ## Datasets
 For this research, we used two collection. 
-### GHTorrent
+### 1. GHTorrent
 This collection is obtained from publicly available dataset from [GHTorrent8](http://ghtorrent.org/downloads.html) project [1]. We used [historical data as of January 1st, 2019](http://ghtorrent-downloads.ewi.tudelft.nl/mysql/mysql-2019-01-01.tar.gz)
 
-### Dataset with GitHub API
+### 2. Dataset with GitHub API
 We collected data for analysis of recent user activities. We applied the following steps:
 
 1. formulation of the "search query" to be used while sending the API requests.
